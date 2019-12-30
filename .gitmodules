@@ -1,0 +1,3 @@
+[submodule "DeFiBus"]
+	path = DeFiBus
+	url = https://github.com/WeBankFinTech/DeFiBus.git
